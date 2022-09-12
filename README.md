@@ -1,4 +1,4 @@
-# Derivation of the pressure function
+# Numerical computation of the pressure function
 This program finds a numeric solution for the stationary states on arbitrary finite gas networks. This code is a part of the bachelor thesis of Veronika Riedl.
 
 <p align="center">
