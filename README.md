@@ -3,4 +3,4 @@ This program finds a numeric solution for the stationary states on arbitrary fin
 
 ## Installation
 Run one of the following files in Matlab:
-[nocircle.m](https://github.com/DCN-FAU-AvH/pressure_function/blob/main/nocircle.m), onecircle.m or twocircles.m
+[nocircle.m](https://github.com/DCN-FAU-AvH/pressure_function/blob/main/nocircle.m), [onecircle.m](https://github.com/DCN-FAU-AvH/pressure_function/blob/main/onecircle.m) or [twocircles.m](https://github.com/DCN-FAU-AvH/pressure_function/blob/main/twocircles.m)
